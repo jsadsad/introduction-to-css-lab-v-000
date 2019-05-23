@@ -7,6 +7,7 @@ body {
 div {
   width: 700px;
   margin: auto /*centers our elements*/;
+  
 }
 
 /* ID selector to select the element with id 'main-header' */
