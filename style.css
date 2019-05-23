@@ -8,6 +8,7 @@ div {
   width: 700px;
   margin: auto /*centers our elements*/;
   font-family: "Helvetica Neue";
+  background: #ffffff;
 }
 
 /* ID selector to select the element with id 'main-header' */
