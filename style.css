@@ -9,7 +9,7 @@ div {
   margin: auto /*centers our elements*/;
   font-family: "Helvetica Neue";
   background: #ffffff;
-  padding: 30px; /*creates an invisible space around element*/
+  padding: 50px; /*creates an invisible space around element*/
 }
 
 /* ID selector to select the element with id 'main-header' */
